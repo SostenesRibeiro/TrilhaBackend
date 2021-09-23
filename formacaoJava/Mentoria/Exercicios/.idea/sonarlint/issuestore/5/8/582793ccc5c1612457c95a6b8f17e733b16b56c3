@@ -1,0 +1,10 @@
+
+\
+java:S1854#":Remove this useless assignment to local variable "lista3".(ÙÅÆ•øÿÿÿÿ8ö÷ÃÝº/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¤Ê—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇŒåðúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(òÒ­Í
+M
+java:S1481#"+Remove this unused "lista3" local variable.(ÙÅÆ•øÿÿÿÿ8ü÷ÃÝº/
+X	java:S125$"<This block of commented-out lines of code should be removed.(ò÷¸Í8ÿ÷ÃÝº/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä¬¯çùÿÿÿÿ
